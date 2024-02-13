@@ -23,7 +23,7 @@ Before you start using the Phonebook Directory, make sure you have the following
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/latif-muhammad/PhoneBook-Directory
+   https://github.com/sameerhussain3211/Phonebook
    ```
 
    - Open the project in your Java IDE.
